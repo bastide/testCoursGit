@@ -10,5 +10,6 @@ package fr.irit.bastide.mavenproject5;
  * @author rbastide
  */
 public class NewClass {
+	private int x;
 	
 }
